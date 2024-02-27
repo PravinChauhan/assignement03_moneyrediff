@@ -11,7 +11,7 @@ Assigment 3.Validate the stock prices displayed in the https://money.rediff.com/
 
 Code Logic:
 
-ublic class RediffMoneyTest {
+Public class RediffMoneyTest {
 private WebDriver driver;
 
     @Before
